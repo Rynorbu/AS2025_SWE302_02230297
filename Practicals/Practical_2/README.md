@@ -1,5 +1,22 @@
 # User Management API with Test-Driven Development
 
+## Table of Contents
+
+- [Executive Summary](#executive-summary)
+- [Repository Link](#repository-link)
+- [Technical Architecture](#technical-architecture)
+  - [System Components](#system-components)
+- [REST API Specification](#rest-api-specification)
+  - [Endpoint Overview](#endpoint-overview)
+- [Quality Assurance Framework](#quality-assurance-framework)
+  - [Test Strategy Implementation](#test-strategy-implementation)
+- [Development Workflow](#development-workflow)
+- [Performance & Quality Metrics](#performance--quality-metrics)
+- [Technical Implementation Details](#technical-implementation-details)
+- [Implementation Evidence](#implementation-evidence)
+- [Academic Achievement Summary](#academic-achievement-summary)
+- [Academic Context](#academic-context)
+
 ## Executive Summary
 
 This repository showcases a **robust user management REST API** built in Go, emphasizing **test-driven development** and **comprehensive quality assurance practices**. The implementation features a complete CRUD system with extensive unit testing, achieving high code coverage and demonstrating industry-standard testing methodologies.
