@@ -4,6 +4,12 @@
 
 This repository showcases a **robust user management REST API** built in Go, emphasizing **test-driven development** and **comprehensive quality assurance practices**. The implementation features a complete CRUD system with extensive unit testing, achieving high code coverage and demonstrating industry-standard testing methodologies.
 
+## Repository Link
+
+🔗 **Complete Implementation:** [https://github.com/Rynorbu/AS2025_SWE_3032_02230297_Practical_2.git](https://github.com/Rynorbu/AS2025_SWE_3032_02230297_Practical_2.git)
+
+This README file provides documentation and evidence for the complete Go implementation available in the above repository.
+
 ## Technical Architecture
 
 ### System Components
