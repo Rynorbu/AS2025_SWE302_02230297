@@ -25,3 +25,13 @@ The repository is organized as follows:
 
 - **Practicals**: Contains folders for each practical exercise completed during the course.
 - **Assignments**: Contains folders for each assignment submitted as
+
+<div align="center">
+
+### **🌟 Star this repository if you found it helpful! 🌟**
+
+**Made with ❤️ by [Rynorbu](https://github.com/Rynorbu) for SWEE302**
+
+*Building the future of interactive learning, one quiz at a time.*
+
+</div>

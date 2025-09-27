@@ -233,3 +233,14 @@ Detailed line-by-line analysis of code execution paths:
 **Module:** Practical Assignment 2 - Testing & Quality Assurance  
 **Academic Year:** 2025 Autum Semester 
 **Student ID:** 02230297
+
+
+<div align="center">
+
+### **🌟 Star this repository if you found it helpful! 🌟**
+
+**Made with ❤️ by [Rynorbu](https://github.com/Rynorbu) for SWEE302**
+
+*Building the future of interactive learning, one quiz at a time.*
+
+</div>
