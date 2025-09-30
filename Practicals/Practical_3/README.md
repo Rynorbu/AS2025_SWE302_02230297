@@ -2,6 +2,9 @@
 
 ## Advanced Shipping Fee Calculator - Test Analysis & Implementation
 
+### 🔗 Code Implementation
+**Git Repository:** [https://github.com/Rynorbu/Practical-3-Testing](https://github.com/Rynorbu/Practical-3-Testing)
+
 ### Function Specifications
 
 This project implements and tests **two shipping fee calculation functions**:
