@@ -680,7 +680,7 @@ This performance testing project successfully demonstrated the Dog CEO API appli
 
 ## Final Reflections
 
-This project transformed performance testing from theory into practical skill. The biggest lesson learned was that **performance testing isn't just about running tests—it's about understanding what the numbers mean**. A 100ms response time means nothing without context: Is it under normal load? During a spike? After 30 minutes?
+This project transformed performance testing from theory into practical skill. The biggest lesson learned was that **performance testing isn't just about running tests, it's about understanding what the numbers mean**. A 100ms response time means nothing without context: Is it under normal load? During a spike? After 30 minutes?
 
 **What Made This Valuable:**
 
